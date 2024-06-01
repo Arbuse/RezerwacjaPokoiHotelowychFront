@@ -1,0 +1,5 @@
+enum EQUIPMENT {
+  STANDARD,
+  PREMIUM,
+  VIP
+}
